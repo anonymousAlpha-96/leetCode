@@ -1,0 +1,32 @@
+
+# Compiled executables
+findSecondLargest
+firstNonRepeatingChar
+moveZerosToEnd
+
+# Object files
+*.o
+*.obj
+
+# Static and dynamic libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+
+# Build directories
+build/
+cmake-build-*/
+
+# Debug files
+*.dSYM/
+*.out
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
